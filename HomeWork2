@@ -1,0 +1,13 @@
+a = 7
+b = 5
+sum = a + b
+sub = a - b
+mul = a * b
+step = a**b
+delt = a//b
+print(sum, sub, mul)
+print(step, delt)
+c=121
+er = a <= c
+print(a <= c)
+
